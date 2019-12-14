@@ -2,6 +2,10 @@
 
 ## Emacs
 
+Use 24.5
+
+M-x menu-bar-open
+
 Make sure `goimports` is in `~/go/bin/goimports`.
 
 ```
